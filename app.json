@@ -1,0 +1,19 @@
+{
+  "id": "b2521083-ae15-4e47-a36a-b4995901713e",
+  "name": "Credit Limit",
+  "publisher": "Cronus International Ltd",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem"
+}
